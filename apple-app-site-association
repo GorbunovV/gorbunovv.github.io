@@ -3,7 +3,7 @@
     "apps": [],
     "details": [{
         "appID": "W4Q78DB34K.dev.ifuture.marathonbet",
-        "paths": ["/results"]
+        "paths": ["*"]
       }]
   }
 }
