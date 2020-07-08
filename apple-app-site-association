@@ -6,8 +6,8 @@
                 "appID": "W4Q78DB34K.com.mobenga.marathon",
                 "paths": [
                     "/results",
-                    "/sport/live/*",
-                    "/sport/prematch/*",
+                    "/promotions",
+                    "/sport/*",
                 ]
             },
         ]
