@@ -5,7 +5,6 @@
             {
                 "appID": "W4Q78DB34K.com.mobenga.marathon",
                 "paths": [
-                    "/results",
                     "/promotions",
                     "/sport/*",
                 ]
