@@ -7,7 +7,7 @@
                 "paths": [
                     "/promotions",
                     "/sport/*",
-                    "/deep-link/*",
+                    "/emails/*",
                 ]
             },
         ]
