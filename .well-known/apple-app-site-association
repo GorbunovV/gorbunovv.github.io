@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "64C7JASH48.dk.marathonbet.sportsbook",
+        "appID": "64C7JASH48.dk.marathonbet.mobile",
         "paths": ["/promotions", "/emails/*", "/sport/*"]
       }
     ]
