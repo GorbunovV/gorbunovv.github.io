@@ -8,6 +8,17 @@
                     "/promotions",
                     "/emails/*",
                     "/sport/*",
+                    "/deep-link/*",
+                    "/??/",
+                    "/???/",
+                    "/??/betting/*/",
+                    "/???/betting/*/",
+                    "/??/popular/*/",
+                    "/???/popular/*/",
+                    "/??/live/*/",
+                    "/???/live/*/",
+                    "/??/events*",
+                    "/???/events*",
                 ]
             },
         ]
